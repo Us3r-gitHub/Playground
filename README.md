@@ -21,6 +21,12 @@ Enable `mise` in your shell session:
 mise activate [FLAGS] [SHELL_TYPE]
 ```
 
+Alternatively, you can append it to your shell's rc file (example below uses bash):
+
+```sh
+echo 'eval "$(mise activate bash)"' >> ~/.bashrc
+```
+
 More details: 👉 [Activating `mise`](https://mise.jdx.dev/cli/activate.html)
 
 ### 3. Install Required Tools
