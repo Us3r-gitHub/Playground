@@ -1,0 +1,14 @@
+# Dependencies
+node_modules
+
+# Logs
+logs
+*.log*
+
+# .Env
+.env
+.env.*
+!.env.example
+
+# mise Config
+mise.*local.toml
