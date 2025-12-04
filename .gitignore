@@ -12,3 +12,6 @@ logs
 
 # mise Config
 mise.*local.toml
+
+# Wrangler Config
+.wrangler
