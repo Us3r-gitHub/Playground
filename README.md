@@ -39,10 +39,10 @@ mise install
 
 ### 4. Install Project Dependencies
 
-Install all dependencies using `bun`:
+Install all dependencies using `pnpm`:
 
 ```sh
-bun install
+pnpm install
 ```
 
 ## 🛠️ Additional Notes
